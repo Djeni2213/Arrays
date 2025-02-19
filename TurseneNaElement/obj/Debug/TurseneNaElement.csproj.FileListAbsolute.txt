@@ -1,0 +1,7 @@
+C:\Djeni 9a\Arrays\TurseneNaElement\bin\Debug\TurseneNaElement.exe.config
+C:\Djeni 9a\Arrays\TurseneNaElement\bin\Debug\TurseneNaElement.exe
+C:\Djeni 9a\Arrays\TurseneNaElement\bin\Debug\TurseneNaElement.pdb
+C:\Djeni 9a\Arrays\TurseneNaElement\obj\Debug\TurseneNaElement.csproj.AssemblyReference.cache
+C:\Djeni 9a\Arrays\TurseneNaElement\obj\Debug\TurseneNaElement.csproj.CoreCompileInputs.cache
+C:\Djeni 9a\Arrays\TurseneNaElement\obj\Debug\TurseneNaElement.exe
+C:\Djeni 9a\Arrays\TurseneNaElement\obj\Debug\TurseneNaElement.pdb

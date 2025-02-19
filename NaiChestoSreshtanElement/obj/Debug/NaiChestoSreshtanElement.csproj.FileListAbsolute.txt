@@ -1,0 +1,7 @@
+C:\Djeni 9a\Arrays\NaiChestoSreshtanElement\bin\Debug\NaiChestoSreshtanElement.exe.config
+C:\Djeni 9a\Arrays\NaiChestoSreshtanElement\bin\Debug\NaiChestoSreshtanElement.exe
+C:\Djeni 9a\Arrays\NaiChestoSreshtanElement\bin\Debug\NaiChestoSreshtanElement.pdb
+C:\Djeni 9a\Arrays\NaiChestoSreshtanElement\obj\Debug\NaiChestoSreshtanElement.csproj.AssemblyReference.cache
+C:\Djeni 9a\Arrays\NaiChestoSreshtanElement\obj\Debug\NaiChestoSreshtanElement.csproj.CoreCompileInputs.cache
+C:\Djeni 9a\Arrays\NaiChestoSreshtanElement\obj\Debug\NaiChestoSreshtanElement.exe
+C:\Djeni 9a\Arrays\NaiChestoSreshtanElement\obj\Debug\NaiChestoSreshtanElement.pdb

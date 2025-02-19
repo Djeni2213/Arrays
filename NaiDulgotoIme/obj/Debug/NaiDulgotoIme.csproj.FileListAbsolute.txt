@@ -1,0 +1,7 @@
+C:\Djeni 9a\Arrays\NaiDulgotoIme\bin\Debug\NaiDulgotoIme.exe.config
+C:\Djeni 9a\Arrays\NaiDulgotoIme\bin\Debug\NaiDulgotoIme.exe
+C:\Djeni 9a\Arrays\NaiDulgotoIme\bin\Debug\NaiDulgotoIme.pdb
+C:\Djeni 9a\Arrays\NaiDulgotoIme\obj\Debug\NaiDulgotoIme.csproj.AssemblyReference.cache
+C:\Djeni 9a\Arrays\NaiDulgotoIme\obj\Debug\NaiDulgotoIme.csproj.CoreCompileInputs.cache
+C:\Djeni 9a\Arrays\NaiDulgotoIme\obj\Debug\NaiDulgotoIme.exe
+C:\Djeni 9a\Arrays\NaiDulgotoIme\obj\Debug\NaiDulgotoIme.pdb

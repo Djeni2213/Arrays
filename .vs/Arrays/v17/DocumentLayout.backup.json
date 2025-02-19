@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Djeni 9a\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE8D193-07EE-457C-B3C0-ECDB609468FF}|NaiChestoSreshtanElement\\NaiChestoSreshtanElement.csproj|c:\\djeni 9a\\arrays\\naichestosreshtanelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE8D193-07EE-457C-B3C0-ECDB609468FF}|NaiChestoSreshtanElement\\NaiChestoSreshtanElement.csproj|solutionrelative:naichestosreshtanelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D402CC7-E544-4B60-92B6-47EBBFA46AA8}|TurseneNaElement\\TurseneNaElement.csproj|C:\\Djeni 9a\\Arrays\\tursenenaelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D402CC7-E544-4B60-92B6-47EBBFA46AA8}|TurseneNaElement\\TurseneNaElement.csproj|solutionrelative:tursenenaelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66331B42-4A6E-4F59-9937-29A334245AD8}|NaiDulgotoIme\\NaiDulgotoIme.csproj|c:\\djeni 9a\\arrays\\naidulgotoime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66331B42-4A6E-4F59-9937-29A334245AD8}|NaiDulgotoIme\\NaiDulgotoIme.csproj|solutionrelative:naidulgotoime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E333BC0-A938-4B7B-9CD5-7EE1342D76B2}|Arrays1\\Arrays1.csproj|C:\\Djeni 9a\\Arrays\\arrays1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E333BC0-A938-4B7B-9CD5-7EE1342D76B2}|Arrays1\\Arrays1.csproj|solutionrelative:arrays1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Djeni 9a\\Arrays\\NaiChestoSreshtanElement\\Program.cs",
+              "RelativeDocumentMoniker": "NaiChestoSreshtanElement\\Program.cs",
+              "ToolTip": "C:\\Djeni 9a\\Arrays\\NaiChestoSreshtanElement\\Program.cs*",
+              "RelativeToolTip": "NaiChestoSreshtanElement\\Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:59:02.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Djeni 9a\\Arrays\\NaiDulgotoIme\\Program.cs",
+              "RelativeDocumentMoniker": "NaiDulgotoIme\\Program.cs",
+              "ToolTip": "C:\\Djeni 9a\\Arrays\\NaiDulgotoIme\\Program.cs",
+              "RelativeToolTip": "NaiDulgotoIme\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:22:37.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Djeni 9a\\Arrays\\TurseneNaElement\\Program.cs",
+              "RelativeDocumentMoniker": "TurseneNaElement\\Program.cs",
+              "ToolTip": "C:\\Djeni 9a\\Arrays\\TurseneNaElement\\Program.cs",
+              "RelativeToolTip": "TurseneNaElement\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:53:47.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Djeni 9a\\Arrays\\Arrays1\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays1\\Program.cs",
+              "ToolTip": "C:\\Djeni 9a\\Arrays\\Arrays1\\Program.cs",
+              "RelativeToolTip": "Arrays1\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:20:37.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

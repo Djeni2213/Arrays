@@ -1,0 +1,7 @@
+C:\Djeni 9a\Arrays\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Djeni 9a\Arrays\Arrays1\bin\Debug\Arrays1.exe
+C:\Djeni 9a\Arrays\Arrays1\bin\Debug\Arrays1.pdb
+C:\Djeni 9a\Arrays\Arrays1\obj\Debug\Arrays1.csproj.AssemblyReference.cache
+C:\Djeni 9a\Arrays\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+C:\Djeni 9a\Arrays\Arrays1\obj\Debug\Arrays1.exe
+C:\Djeni 9a\Arrays\Arrays1\obj\Debug\Arrays1.pdb
