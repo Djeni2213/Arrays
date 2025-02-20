@@ -1,0 +1,7 @@
+C:\Djeni 9a\Arrays\FindEvenElement\bin\Debug\FindEvenElement.exe.config
+C:\Djeni 9a\Arrays\FindEvenElement\bin\Debug\FindEvenElement.exe
+C:\Djeni 9a\Arrays\FindEvenElement\bin\Debug\FindEvenElement.pdb
+C:\Djeni 9a\Arrays\FindEvenElement\obj\Debug\FindEvenElement.csproj.AssemblyReference.cache
+C:\Djeni 9a\Arrays\FindEvenElement\obj\Debug\FindEvenElement.csproj.CoreCompileInputs.cache
+C:\Djeni 9a\Arrays\FindEvenElement\obj\Debug\FindEvenElement.exe
+C:\Djeni 9a\Arrays\FindEvenElement\obj\Debug\FindEvenElement.pdb

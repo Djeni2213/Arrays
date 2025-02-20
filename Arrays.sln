@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiDulgotoIme", "NaiDulgoto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiChestoSreshtanElement", "NaiChestoSreshtanElement\NaiChestoSreshtanElement.csproj", "{DFE8D193-07EE-457C-B3C0-ECDB609468FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolkoPutiSeSreshtaChislo", "KolkoPutiSeSreshtaChislo\KolkoPutiSeSreshtaChislo.csproj", "{E750FE6E-95BA-4A85-B536-A8080196FF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindEvenElement", "FindEvenElement\FindEvenElement.csproj", "{D19C99FB-2511-4808-913D-079C747D4769}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{DFE8D193-07EE-457C-B3C0-ECDB609468FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFE8D193-07EE-457C-B3C0-ECDB609468FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFE8D193-07EE-457C-B3C0-ECDB609468FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E750FE6E-95BA-4A85-B536-A8080196FF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E750FE6E-95BA-4A85-B536-A8080196FF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E750FE6E-95BA-4A85-B536-A8080196FF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E750FE6E-95BA-4A85-B536-A8080196FF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19C99FB-2511-4808-913D-079C747D4769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19C99FB-2511-4808-913D-079C747D4769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19C99FB-2511-4808-913D-079C747D4769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19C99FB-2511-4808-913D-079C747D4769}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

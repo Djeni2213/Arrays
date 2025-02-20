@@ -1,0 +1,7 @@
+C:\Djeni 9a\Arrays\KolkoPutiSeSreshtaChislo\bin\Debug\KolkoPutiSeSreshtaChislo.exe.config
+C:\Djeni 9a\Arrays\KolkoPutiSeSreshtaChislo\bin\Debug\KolkoPutiSeSreshtaChislo.exe
+C:\Djeni 9a\Arrays\KolkoPutiSeSreshtaChislo\bin\Debug\KolkoPutiSeSreshtaChislo.pdb
+C:\Djeni 9a\Arrays\KolkoPutiSeSreshtaChislo\obj\Debug\KolkoPutiSeSreshtaChislo.csproj.AssemblyReference.cache
+C:\Djeni 9a\Arrays\KolkoPutiSeSreshtaChislo\obj\Debug\KolkoPutiSeSreshtaChislo.csproj.CoreCompileInputs.cache
+C:\Djeni 9a\Arrays\KolkoPutiSeSreshtaChislo\obj\Debug\KolkoPutiSeSreshtaChislo.exe
+C:\Djeni 9a\Arrays\KolkoPutiSeSreshtaChislo\obj\Debug\KolkoPutiSeSreshtaChislo.pdb
